@@ -35,7 +35,7 @@ ultraedit-clone/
 # 🚀 How to Run Locally
 
 1. Clone the repository:
-git clone https://github.com/your-username/ultraedit-clone.git
+git clone https://github.com/ShashankPonna/Ultra-Edit-Clone.git
 
 Open the folder and double-click on index.html to view in your browser.
 
